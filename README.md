@@ -59,7 +59,6 @@ Domain: homelab.local
 <img width="1016" height="847" alt="AD DS role selected" src="https://github.com/user-attachments/assets/e7212f44-387e-4129-956e-ef5e125ebdc6" />
 <img width="1023" height="848" alt="static IP setup" src="https://github.com/user-attachments/assets/23ee796a-1dda-4d6f-b488-2866b64c6d4c" />
 <img width="1029" height="859" alt="Setup OU" src="https://github.com/user-attachments/assets/077470f9-eb11-4315-98d0-5cb44ed11a92" />
-<img width="935" height="629" alt="Screenshot 2026-04-15 224041" src="https://github.com/user-attachments/assets/412c21c5-0a9f-401a-af7f-ddaff29bebff" />
 <img width="982" height="786" alt="Prohibit Access enable" src="https://github.com/user-attachments/assets/b6de4a0b-e4ef-41d4-9170-1c9fb9c9359f" />
 <img width="1027" height="860" alt="new GPO created" src="https://github.com/user-attachments/assets/25884327-4dd4-40ec-9eb4-a74f58529cea" />
 <img width="1027" height="861" alt="IT User" src="https://github.com/user-attachments/assets/00c58e62-c0d1-400e-a891-9bfb097f145d" />
